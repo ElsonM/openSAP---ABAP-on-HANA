@@ -1,0 +1,14 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"ZCDSV_ASSOC_TYPES",
+"SNWD_BPA"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}

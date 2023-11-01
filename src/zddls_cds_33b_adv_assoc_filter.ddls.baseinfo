@@ -1,0 +1,15 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"SNWD_PD"
+],
+"ASSOCIATED":
+[
+"ZCDSV_ADV_FILTER_EXAMPLE_BASE"
+],
+"BASE":
+[]
+}
+}

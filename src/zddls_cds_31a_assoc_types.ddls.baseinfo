@@ -1,0 +1,17 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"SNWD_SO",
+"SNWD_SO_INV_HEAD"
+],
+"ASSOCIATED":
+[
+"SNWD_BPA",
+"SNWD_SO_INV_HEAD"
+],
+"BASE":
+[]
+}
+}
